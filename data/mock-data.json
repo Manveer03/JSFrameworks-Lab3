@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "first_name": "Manveer",
+        "last_name": "Kaur",
+        "email": "manveer.kaur@example.com",
+        "gender": "Female",
+        "course": "Computer Science"
+    },
+    {
+        "id": 2,
+        "first_name": "Sukhjot",
+        "last_name": "Kaur",
+        "email": "sukhjot.kaur@example.com",
+        "gender": "Female",
+        "course": "Mathematics"
+    },
+    {
+        "id": 3,
+        "first_name": "Gagandeep",
+        "last_name": "Kaur",
+        "email": "gagandeep.kaur@example.com",
+        "gender": "Female",
+        "course": "Physics"
+    },
+    {
+        "id": 4,
+        "first_name": "Emily",
+        "last_name": "Davis",
+        "email": "emily.davis@example.com",
+        "gender": "Female",
+        "course": "Chemistry"
+    },
+    {
+        "id": 5,
+        "first_name": "Michael",
+        "last_name": "Wilson",
+        "email": "michael.wilson@example.com",
+        "gender": "Male",
+        "course": "Biology"
+    },
+    {
+        "id": 6,
+        "first_name": "Sarah",
+        "last_name": "Taylor",
+        "email": "sarah.taylor@example.com",
+        "gender": "Female",
+        "course": "English"
+    }
+]
